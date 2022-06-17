@@ -12,7 +12,7 @@
         "text": "Located in Indonesia, the Borobodur temple is 42 meters tall, covers an area of 15,129 square meters, and has an impressive 72 stupas.\"
       },
       "number": 1,
-      "prompt": "Which of the following is the most real?"
+      "prompt": "Located in Central Java, this archeological site of Buddhist temples is considered to be the largest in the world."
     },
     {
       "answers": [
@@ -22,13 +22,13 @@
         "index": 0
       },
       "number": 2,
-      "prompt": "Unicorns are real?"
+      "prompt": "Where in Italy is this Gothic cathedral , which is most recognized for its enormous dome?"
     },
     {
       "answers": [
-        "Marshmallow",
-        "Moon glow",
-        "Egg shell"
+        "Florence, cathedral of Santa Maria del Fiore",
+        "Venice, St Mark's Basilica",
+        "Naples, cathedral of the Assumption of Mary"
       ],
       "correct": {
         "index": 1
@@ -36,9 +36,9 @@
       "image": "Machu_Picchu_maravilla_del_mundo.jpg",
       "image_credit": "Random dude from the Interwebs",
       "number": 3,
-      "prompt": "What shade of white is this unicorn?"
+      "prompt": "This Inca citadel, renowned for its Temple of the Sun, is located in which country?"
     }
   ],
-  "title": "How well do you know real creatures?",
+  "title": "Let's go back in time...",
   "url": "http://urbaninstitute.github.io/quick-quiz/"
 }
