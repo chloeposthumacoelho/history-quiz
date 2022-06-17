@@ -16,9 +16,9 @@
     },
     {
       "answers": [
-       "Florence, cathedral of Santa Maria del Fiore",
+        "Florence, cathedral of Santa Maria del Fiore",
         "Venice, St Mark's Basilica",
-        "Naples, cathedral of the Assumption of Mary" 
+        "Naples, cathedral of the Assumption of Mary"
       ],
       "correct": {
         "index": 0
@@ -27,16 +27,11 @@
       "prompt": "Where in Italy is this Gothic cathedral , which is most recognized for its enormous dome?"
     },
     {
-     
+      
       "image": "Machu_Picchu_maravilla_del_mundo.jpg",
       "image_credit": "Random dude from the Interwebs",
       "number": 3,
       "prompt": "This Inca citadel, renowned for its Temple of the Sun, is located in which country?"
-       ],
-      "answers": [
-        "Chichen Itza, Mexico",
-        "Peru, Macchu Picchu",
-        "Tikal, Guatemala"
     }
   ],
   "title": "Let's go back in time...",
