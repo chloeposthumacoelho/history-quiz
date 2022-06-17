@@ -9,10 +9,10 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Located in Indonesia, the Borobodur temple is 42 meters tall, covers an area of 15,129 square meters, and has an impressive 72 stupas.\"
+        "text": "Located in Indonesia, the Borobodur temple is 42 meters tall, covers an area of 15,129 square meters, and has an impressive 72 stupas.\""
       },
       "number": 1,
-      "prompt": "Located in Central Java, this archeological site of Buddhist temples is considered to be the largest in the world."
+      "prompt": "Located in Central Java, this archeological site of Buddhist temples is considered to be the largest in the world"
     },
     {
       "answers": [
