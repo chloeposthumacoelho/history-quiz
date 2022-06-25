@@ -2,6 +2,5 @@
 
 ## made by Chloe Posthuma-Coelho
 
-https://chloepc03.github.io/history-quiz/
-
+ https://chloeposthumacoelho.github.io/history-quiz/
 
